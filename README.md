@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarivs_codes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me on twitter @jarvis_codes 
 - 💞️ Lets connect and grow together
