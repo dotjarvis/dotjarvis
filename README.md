@@ -11,9 +11,8 @@
 
 <br/>
 <br/>
-<br/>
 <h3 align="center">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -49,7 +48,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h3 align="center">⚡ GitHub Statistics</h3>
 <p>
@@ -64,7 +62,6 @@
 </p>
 
 
-<br/>
 <br/>
 <br/>
 
