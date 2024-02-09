@@ -37,7 +37,7 @@ Hi 👋, I am Jarvis
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center">Hi 👋, I'm Jarvis</h1>
-<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on [Foreigners Pub](https://github.com/dotjarvis/foreignersPub/)
 - 👯 I’m looking to collaborate on fun projects
@@ -47,7 +47,7 @@ Hi 👋, I am Jarvis
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Lby1-1DkR2EvclOzINX56XdvZod3YAbM/view)
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
