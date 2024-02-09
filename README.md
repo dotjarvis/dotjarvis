@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @jarivs codes
+- 👋 Hi, I’m @jarivs_codes
 - 👀 I’m a frontend web developer
 - 🏁️ Striving to the top 1% developer
 - 🌱 I’m leveling my backend skills with django under #30daysofdjango
