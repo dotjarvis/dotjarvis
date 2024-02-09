@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Foreigners Pub](https://github.com/dotjarvis/foreignersPub/)
 - 👯 I’m looking to collaborate on fun projects
-- 👨‍💻 All of my projects are available in my [portfolio](jarviscodes.netlify.app)
+- 👨‍💻 All of my projects are available in my [portfolio](https://jarviscodes.netlify.app/)
 - 🏁️ Striving to the top 1% developer
 - 📫 How to reach me **johnsonmakings@gmail.com**
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Lby1-1DkR2EvclOzINX56XdvZod3YAbM/view)
