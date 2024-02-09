@@ -39,25 +39,20 @@ Hi 👋, I am Jarvis
 <h1 align="center">Hi 👋, I'm Jarvis</h1>
 <h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dotjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="dotjarvis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotjarvis" alt="dotjarvis" /></a> </p>
-
 - 🔭 I’m currently working on [Foreigners Pub](https://github.com/dotjarvis/foreignersPub/)
 
 - 🌱 I’m currently learning **React, tailwindCSS**
 
 - 👯 I’m looking to collaborate on **Foreigners Pub**
 
-- 🤝 I’m looking for help with **React and Nodejs**
 
-- 👨‍💻 All of my projects are available at [jarviscodes.netlify.app](jarviscodes.netlify.app)
+- 👨‍💻 All of my projects are available in my [portfolio](jarviscodes.netlify.app)
 
 - 💬 Ask me about **Django, python,javascript**
 
 - 📫 How to reach me **johnsonmakings@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lby1-1DkR2EvclOzINX56XdvZod3YAbM/view](https://drive.google.com/file/d/1Lby1-1DkR2EvclOzINX56XdvZod3YAbM/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Lby1-1DkR2EvclOzINX56XdvZod3YAbM/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
