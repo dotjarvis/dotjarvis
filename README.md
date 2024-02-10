@@ -51,14 +51,14 @@
 
 <h3 align="center">⚡ GitHub Statistics</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvissoftdev&show_icons=true&locale=en&layout=compact" alt="jarvissoftdev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvisthedev&show_icons=true&locale=en&layout=compact" alt="jarvisthedev" />
 </p>
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvissoftdev&show_icons=true&locale=en" alt="jarvissoftdev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvisthedev&show_icons=true&locale=en" alt="jarvisthedev" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvissoftdev&" alt="jarvissoftdev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvisthedev&" alt="jarvisthedev" />
 </p>
 
 
@@ -67,7 +67,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/jarvissoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeslowlearner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jarvissoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ochieng-jarvis" height="30" width="40" /></a>
-<a href="https://instagram.com/jarvissoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvis_codes" height="30" width="40" /></a>
+<a href="https://twitter.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeslowlearner" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ochieng-jarvis" height="30" width="40" /></a>
+<a href="https://instagram.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvis_codes" height="30" width="40" /></a>
 </p>
