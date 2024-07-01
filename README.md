@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jarvis</h1>
 <h3 align="center">A passionate software developer💻</h3>
 
-- 🔭 I’m currently working on [Foreigners Pub](https://github.com/dotjarvis/foreignersPub/)
-- 👯 I’m looking to collaborate on fun projects
-- 👨‍💻 All of my projects are available in my [portfolio](https://jarviscodes.netlify.app/)
 - 🏁️ Striving to the top 1% developer
-- 📫 How to reach me **johnsonmakings@gmail.com**
-
-
+- 👨‍💻 Some of my projects are available in my [portfolio](https://jarviscodes.netlify.app/)
+- 🔭 I’m currently working on [LakeSide hotel](https://github.com/dotjarvis/lakeSide-hotel/)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/e/2PACX-1vQB4kJM6NT3GIcIza46dOWVFlWyYsU0CefhF7zKboVdBVR9z_bjRoEBDrxD6EymF_jyQ6XULPYnUjAL/pub)
+- 📫 Got a quiz/ proposal, or say hello? **johnsonmakings@gmail.com**
+- ⏳ Response within 6 hrs
 <br/>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
@@ -44,7 +43,6 @@
   </a>
 </p>
 
-
 <br/>
 <br/>
 
@@ -60,13 +58,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvisthedev&" alt="jarvisthedev" />
 </p>
 
-
 <br/>
 <br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeslowlearner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ochieng-jarvis" height="30" width="40" /></a>
-<a href="https://instagram.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvis_codes" height="30" width="40" /></a>
+<a href="https://twitter.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarvisthedev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarvisthedev" height="30" width="40" /></a>
+<a href="https://instagram.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvisthedev" height="30" width="40" /></a>
 </p>
