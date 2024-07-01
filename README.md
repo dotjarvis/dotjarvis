@@ -3,7 +3,7 @@
 
 - 🏁️ Striving to the top 1% developer
 - 👨‍💻 Some of my projects are available in my [portfolio](https://jarviscodes.netlify.app/)
-- 🔭 I’m currently working on [LakeSide hotel](https://github.com/dotjarvis/lakeSide-hotel/)
+- 🔭 I’m currently working on [LakeSide hotel](https://github.com/jarvisthedev/lakeSide-hotel/)
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/e/2PACX-1vQB4kJM6NT3GIcIza46dOWVFlWyYsU0CefhF7zKboVdBVR9z_bjRoEBDrxD6EymF_jyQ6XULPYnUjAL/pub)
 - 📫 Got a quiz/ proposal, or say hello? **johnsonmakings@gmail.com**
 - ⏳ Response within 6 hrs
