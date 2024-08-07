@@ -3,7 +3,7 @@
 
 - 🏁️ Striving to the top 1% developer
 - 👨‍💻 Some of my projects are available in my [portfolio](https://jarviscodes.netlify.app/)
-- 🔭 I’m currently working on [LakeSide hotel](https://github.com/jarvisthedev/lakeSide-hotel/)
+- 🔭 I’m currently working on [Online Food Ordering System](https://github.com/jarvisthedev/OnlineFoodOrdering/)
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/e/2PACX-1vQB4kJM6NT3GIcIza46dOWVFlWyYsU0CefhF7zKboVdBVR9z_bjRoEBDrxD6EymF_jyQ6XULPYnUjAL/pub)
 - 📫 Got a quiz/ proposal, or say hello? **johnsonmakings@gmail.com**
 - ⏳ Response within 6 hrs
@@ -64,7 +64,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarvisthedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarvisthedev" height="30" width="40" /></a>
-<a href="https://instagram.com/jarvisthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvisthedev" height="30" width="40" /></a>
+<a href="https://twitter.com/jarviswuod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarvisthedev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jarviswuod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarvisthedev" height="30" width="40" /></a>
+<a href="https://instagram.com/jarviswuod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jarvisthedev" height="30" width="40" /></a>
 </p>
