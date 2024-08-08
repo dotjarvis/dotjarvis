@@ -49,14 +49,14 @@
 
 <h3 align="center">⚡ GitHub Statistics</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvisthedev&show_icons=true&locale=en&layout=compact" alt="jarvisthedev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarviswuod&show_icons=true&locale=en&layout=compact" alt="jarviswuod" />
 </p>
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvisthedev&show_icons=true&locale=en" alt="jarvisthedev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarviswuod&show_icons=true&locale=en" alt="jarviswuod" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvisthedev&" alt="jarvisthedev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarviswuod&" alt="jarviswuod" />
 </p>
 
 <br/>
